@@ -4,7 +4,7 @@
     "Abtin Bateni <abtinbateni@gmail.com>"
   ],
   "description": "Removing stopwords from texts in persian.",
-  "main": "",
+  "main": "main.js",
   "keywords": [
     "persian",
     "farsi",

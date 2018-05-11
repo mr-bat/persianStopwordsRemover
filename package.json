@@ -1,0 +1,27 @@
+{
+  "name": "persian_stopwords_remover",
+  "version": "1.0.0",
+  "description": "Removing stopwords from texts in persian.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-bat/persianStopwordsRemover.git"
+  },
+  "keywords": [
+    "persian",
+    "farsi",
+    "stopword"
+  ],
+  "author": "Abtin Bateni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr-bat/persianStopwordsRemover/issues"
+  },
+  "homepage": "https://github.com/mr-bat/persianStopwordsRemover#readme",
+  "dependencies": {
+    "stopwords-fa": "^0.3.0"
+  }
+}
