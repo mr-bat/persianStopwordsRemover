@@ -1,0 +1,25 @@
+{
+  "name": "PersianStopwordsRemover",
+  "authors": [
+    "Abtin Bateni <abtinbateni@gmail.com>"
+  ],
+  "description": "Removing stopwords from texts in persian.",
+  "main": "",
+  "keywords": [
+    "persian",
+    "farsi",
+    "stopword"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "stopwords-fa": "^0.3.0"
+  }
+}
